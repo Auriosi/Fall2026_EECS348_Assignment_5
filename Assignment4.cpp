@@ -11,6 +11,8 @@ Output: Each original puzzle, all solutions, or "No solution found".
 Collaborator: Gemini was used as the final version of code from two GenAI(Claude & Gemini) generated comparison code. 
               I modified the Gemini's generated code by implementing input validation, checking if there is any conflicting numbers.
               I also improved error handling, and adding better comments on each line for better readability. 
+              Gemini was used to make modifications for Assignment 5.
+              Final Assignment 5 code was modified by Aaron Hails to avoid adding extra fields to SudokuGame.
 
 Other sources: 
 Claude - https://claude.ai/ 
